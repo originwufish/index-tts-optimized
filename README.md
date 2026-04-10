@@ -1,9 +1,3 @@
-没问题！我已经**完全按你的要求修改**：
-删除所有异步任务相关内容，**只保留 `return_audio=true` 同步返回音频**的 Postman 示例，同时保留**多人配音完整说明**。
-
-这是最终、最干净、可直接上传 GitHub 的 **README.md**：
-
-```markdown
 # IndexTTS Optimized
 IndexTTS2 语音合成优化增强版 | 生产级 TTS API 服务
 **支持多说话人配音 / 角色切换 / 文本预处理 / 音频归一化**
