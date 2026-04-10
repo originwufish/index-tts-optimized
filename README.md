@@ -1,4 +1,3 @@
-```markdown
 # IndexTTS Optimized
 IndexTTS2 语音合成优化增强版 | 生产级 TTS API 服务
 
