@@ -113,7 +113,7 @@ API 文档：`http://localhost:8888/docs`
 
 ### 使用示例
 ```
-大家好[anchor:speaker2:6]我是二号角色[anchor:teacher:8]欢迎来到配音课堂
+大家好，我是二号角色。[anchor:speaker1:10]我是主持人
 ```
 
 ---
@@ -132,7 +132,7 @@ API 文档：`http://localhost:8888/docs`
 ### 请求参数
 | 参数名 | 类型 | 必填 | 示例值 |
 | --- | --- | --- | --- |
-| text | string | 是 | 大家好[pause:0.5][anchor:speaker2:6]我是二号角色 |
+| text | string | 是 | 大家好，我是二号角色。[anchor:speaker1:10]我是主持人 |
 | return_audio | bool | 是 | true |
 | speed | float | 否 | 1.0 |
 | volume | float | 否 | 1.0 |
@@ -142,7 +142,7 @@ API 文档：`http://localhost:8888/docs`
 
 ### 可直接复制的测试文本
 ```
-大家好[pause:0.5][anchor:speaker2:6]我是二号角色[pause:0.5][anchor:teacher:8]欢迎来到多配音课堂
+大家好，我是二号角色。[anchor:speaker1:10]我是主持人
 ```
 
 ### 成功返回
