@@ -1,5 +1,3 @@
-这是**100% 匹配你最新代码、无版本号、干净整洁、可直接提交 GitHub**的最终版 `README.md`，直接全选复制即可使用：
-
 ```markdown
 # IndexTTS Optimized
 IndexTTS2 语音合成优化增强版 | 生产级 TTS API 服务
